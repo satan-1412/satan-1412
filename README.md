@@ -1,3 +1,4 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans+Simplified+Chinese&weight=600&size=50&pause=1000&center=&vCenter=&repeat=&random=&width=600&height=300&lines=The+five+boxing+wizards+jump+quickly)](https://git.io/typing-svg)
 ### Hi there 👋
 
 <!--
